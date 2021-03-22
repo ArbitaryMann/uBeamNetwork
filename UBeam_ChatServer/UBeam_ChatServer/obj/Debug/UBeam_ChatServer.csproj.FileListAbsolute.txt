@@ -1,0 +1,7 @@
+C:\Users\Ali\source\repos\UBeam_ChatServer\UBeam_ChatServer\bin\Debug\UBeam_ChatServer.exe.config
+C:\Users\Ali\source\repos\UBeam_ChatServer\UBeam_ChatServer\bin\Debug\UBeam_ChatServer.exe
+C:\Users\Ali\source\repos\UBeam_ChatServer\UBeam_ChatServer\bin\Debug\UBeam_ChatServer.pdb
+C:\Users\Ali\source\repos\UBeam_ChatServer\UBeam_ChatServer\obj\Debug\UBeam_ChatServer.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\UBeam_ChatServer\UBeam_ChatServer\obj\Debug\UBeam_ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\UBeam_ChatServer\UBeam_ChatServer\obj\Debug\UBeam_ChatServer.exe
+C:\Users\Ali\source\repos\UBeam_ChatServer\UBeam_ChatServer\obj\Debug\UBeam_ChatServer.pdb
